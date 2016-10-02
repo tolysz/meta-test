@@ -1,0 +1,26 @@
+resolver: nightly-2016-10-02
+
+packages:
+- '.'
+- location:
+    git: https://github.com/ddssff/haskell-src-meta
+    commit: b7c90892b9aceef874ddf5f3f9bd88b5a9b98f9f
+  extra-dep: true
+
+allow-newer: true
+
+extra-deps:
+- aeson-qq-0.8.1
+- derive-2.5.26
+- jmacro-0.6.14
+- amazonka-1.4.3
+- amazonka-core-1.4.3
+- hse-cpp-0.1
+- hsx2hs-0.13.5
+- cron-0.4.1.2
+- interpolate-0.1.0
+
+flags: {}
+
+extra-package-dbs: []
+
