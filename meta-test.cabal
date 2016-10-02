@@ -22,6 +22,12 @@ library
                , uri-bytestring
                , interpolate
                , cron
+               , QuasiText
+               , codo-notation
+               , here
+               , interpolatedstring-perl6
+               , language-c-quote
+               -- , Agda
                -- , hsx2hs
                -- , amazonka
                -- , hse-cpp

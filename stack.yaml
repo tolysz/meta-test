@@ -20,6 +20,26 @@ extra-deps:
 - cron-0.4.1.2
 - interpolate-0.1.0
 
+- Agda-2.5.1.1
+- EdisonAPI-1.3.1
+- EdisonCore-1.3.1.1
+- data-hash-0.2.0.1
+- equivalence-0.3.1
+- geniplate-mirror-0.7.4
+- monadplus-1.4.2
+- STMonadTrans-0.3.3
+
+- QuasiText-0.1.2.6
+
+- codo-notation-0.5.2
+- here-1.2.8
+- interpolatedstring-perl6-1.0.0
+
+- language-c-quote-0.11.6.3
+- exception-mtl-0.4.0.1
+- exception-transformers-0.4.0.4
+- symbol-0.2.4
+
 flags: {}
 
 extra-package-dbs: []
